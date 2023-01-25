@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/resportalv2/static/css/main.40b0fff6.css",
+    "main.js": "/resportalv2/static/js/main.3150d5cc.js",
+    "static/js/787.77744dcb.chunk.js": "/resportalv2/static/js/787.77744dcb.chunk.js",
+    "static/media/stats.png": "/resportalv2/static/media/stats.d72eeedb4817f15020f4.png",
+    "static/media/res.png": "/resportalv2/static/media/res.4cdda38f2d8cbe9cb6a6.png",
+    "index.html": "/resportalv2/index.html",
+    "main.40b0fff6.css.map": "/resportalv2/static/css/main.40b0fff6.css.map",
+    "main.3150d5cc.js.map": "/resportalv2/static/js/main.3150d5cc.js.map",
+    "787.77744dcb.chunk.js.map": "/resportalv2/static/js/787.77744dcb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40b0fff6.css",
+    "static/js/main.3150d5cc.js"
+  ]
+}
